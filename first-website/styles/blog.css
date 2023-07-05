@@ -1,0 +1,35 @@
+.header{
+    height:500px;
+    background-image: url('p.jpg');
+    background-repeat: no-repeat;
+
+  background-size: 600px;
+}
+
+
+
+h3{
+    background-color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+
+    color: rgb(171, 124, 64);
+    text-align: justify;
+}
+.blog{
+    margin: 30px;
+    border:10px solid red;
+    box-shadow: 10px 50px 20px violet;
+}
+  .nisi{
+    border:2px solid purple;
+   height: 10px;
+   margin: 10px; 
+
+  }
+.quos{
+    border:2px solid peru;
+    height:60px;
+    display:inline-block
+}
